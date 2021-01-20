@@ -1,0 +1,19 @@
+.html,body {
+
+background-image: url('bg8.jpg');
+
+}
+.head_line {
+
+    background-color: #000000;
+    color: #ffffff;
+
+}
+.head_img {
+
+   
+    display: flex;
+    justify-content: center;
+    border-radius: 500px;
+
+}
